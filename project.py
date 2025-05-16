@@ -50,7 +50,7 @@ while True:
                 entering_name = False
         elif key == 8:
             current_name = current_name[:-1]
-        elif 32 <= key <= 126:  # Printable characters
+        elif 32 <= key <= 126: 
             current_name += chr(key)
 
 if attendance_list:
