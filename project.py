@@ -59,3 +59,4 @@ if attendance_list:
 
 cap.release()
 cv2.destroyAllWindows()
+by sohail
